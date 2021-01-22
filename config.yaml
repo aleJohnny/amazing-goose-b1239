@@ -1,4 +1,4 @@
-title: Stackbit Exto Theme
+title: Agência Traços
 baseURL: /
 params:
   description: A portfolio theme with a blog
@@ -14,46 +14,32 @@ params:
       - label: Portfolio
         url: /portfolio/
         style: link
-      - label: Blog
-        url: /blog/
+      - label: Clipping
+        url: /clipping/
         style: link
       - label: Style Guide
         url: /style-guide/
         style: link
-      - label: About
-        url: /about/
+      - label: Quem Somos
+        url: /quem-somos/
         style: link
       - label: Contact
         url: /contact/
         style: link
   footer:
     content: >-
-      &copy; Stackbit. All rights reserved. This Jamstack site was created with
-      <a href="https://www.stackbit.com/?utm_source=deployed-footer"
-      target="_blank" rel="noopener">Stackbit</a>. Create yours <a
-      href="https://app.stackbit.com/create?theme=exto&utm_source=deployed-footer"
-      target="_blank" rel="noopener">now</a>
+      COPYRIGHT TRAÇOS 2021 &copy;
     has_social: true
     social_links:
-      - label: Twitter
-        url: 'https://twitter.com/'
+      - label: Facebook
+        url: 'https://www.facebook.com/tracosprodutora'
         style: icon
-        icon_class: fa-twitter
+        icon_class: fa-facebook
         new_window: true
       - label: Instagram
-        url: 'https://www.instagram.com/'
+        url: 'https://www.instagram.com/tracosprodutora/'
         style: icon
         icon_class: fa-instagram
-        new_window: true
-      - label: Dribbble
-        url: 'https://dribbble.com/'
-        style: icon
-        icon_class: fa-dribbble
-        new_window: true
-      - label: LinkedIn
-        url: 'https://www.linkedin.com/'
-        style: icon
-        icon_class: fa-linkedin
         new_window: true
 taxonomies:
   stub: stub
